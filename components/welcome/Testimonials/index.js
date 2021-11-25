@@ -145,7 +145,7 @@ export default function Testimonials() {
             </dl>
             <div className='mt-10'>
               <a href='#' className='text-base font-medium text-rose-500'>
-                Learn more about how we're changing the world&nbsp&rarr;
+                Learn more about how we&apos;re changing the world&nbsp&rarr;
               </a>
             </div>
           </div>

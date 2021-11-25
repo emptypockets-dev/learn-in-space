@@ -18,7 +18,7 @@ export default function Hero() {
             <div>
               <a href='#' className='inline-flex space-x-4'>
                 <span className='rounded bg-rose-50 px-2.5 py-1 text-xs font-semibold text-rose-500 tracking-wide uppercase'>
-                  What's new
+                  What&apos;s new
                 </span>
                 <span className='inline-flex items-center text-sm font-medium text-rose-500 space-x-1'>
                   <span>Just starting to code now</span>
